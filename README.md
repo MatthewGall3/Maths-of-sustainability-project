@@ -11,8 +11,8 @@ The project aimed to solve nonlinear PDEs modelling aquifer behaviour, compute r
 
 - **Drought:**
   
-$$ h_t = (h h_x)_x $$
+$$ \hat{h}_{\hat{t}} = (\hat{h} \, \hat{h}_{\hat{x}})_{\hat{x}} $$
 
 - **Rainfall:**
   
-$$ h_t = (h h_x)_x + 1 $$
+$$ \hat{h}_{\hat{t}} = (\hat{h} \, \hat{h}_{\hat{x}})_{\hat{x}} + 1 $$
