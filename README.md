@@ -20,6 +20,6 @@ $$ \hat{h}_{\hat{t}} = (\hat{h}  \hat{h}_{\hat{x}})_{\hat{x}} + 1 $$
 These equations were then reduced to ODEs. Separation of variables was used for the drought equation, while similarity solutions were applied to the rainfall equation. We then used the shooting method to solve the resulting ODEs.
 
 <p align="center">
-  <img width="1628" height="1196" alt="X(x)" src="https://github.com/user-attachments/assets/349de884-1d22-4520-b408-d81fdfc980d1" />
-  <img width="1628" height="1196" alt="X(x)" src="https://github.com/user-attachments/assets/8609d89f-be43-4ef4-a781-11c383639144" />
+  <img width="45%" height="1196" alt="X(x)" src="https://github.com/user-attachments/assets/349de884-1d22-4520-b408-d81fdfc980d1" />
+  <img width="45%" height="1196" alt="X(x)" src="https://github.com/user-attachments/assets/8609d89f-be43-4ef4-a781-11c383639144" />
 </p>
