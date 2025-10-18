@@ -43,5 +43,18 @@ The constants C and D are determined from the previously obtained numerical solu
   <img src="https://github.com/user-attachments/assets/17e702c9-4628-4a54-b8f6-03179da9ac85" width="50%" alt="f(n)" />
 </p>
 
+## 2-Parameter Fitting to Real Data
+
+After Re-dimensionalising the flux two parameters naturally fall out of the equations. We simply call these P1 and P2. These model parameters were then fit to USGS hydrograph data from four U.S. regions using least-squares minimization. The models show strong agreement between simulated and observed hydrographs, successfully reproducing peak flow timing and decay across diverse soil and rainfall conditions.
+
+<p align="center">
+  <img width="%45" height="1196" alt="p1" src="https://github.com/user-attachments/assets/2e320d67-9b3f-4f92-b671-f244076a5d15" />
+  <img width="%45" height="1196" alt="p2" src="https://github.com/user-attachments/assets/375c3bb0-b829-40e4-a316-fbfc77af3019" />
+</p>
+<p align="center">
+  <img width="%45" height="1196" alt="p3" src="https://github.com/user-attachments/assets/11712688-474a-47aa-8a8e-7249835c7c22" />
+  <img width="%45" height="1196" alt="p4" src="https://github.com/user-attachments/assets/603cf468-2e78-460a-a330-e9ade8b4c29b" />
+</p>
+
 
 
