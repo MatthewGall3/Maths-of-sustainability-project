@@ -21,7 +21,8 @@ These equations were then reduced to ODEs. Separation of variables was used for 
 
 <p align="center">
   <img width="45%" height="1196" alt="X(x)" src="https://github.com/user-attachments/assets/349de884-1d22-4520-b408-d81fdfc980d1" />
-  <img width="45%" height="1196" alt="X(x)" src="https://github.com/user-attachments/assets/8609d89f-be43-4ef4-a781-11c383639144" />
+  <img width="45%" height="1198" alt="f(n)" src="https://github.com/user-attachments/assets/544973fa-c090-4ed9-b40d-912d8c0a9424" />
+
 </p>
 
 ## 2-Calculating Flux
