@@ -40,7 +40,7 @@ $$ \hat{Q}_0 = -\frac{X(0) X'(0)}{ (\hat{t} + A)^2} = -\frac{D^2}{2(\hat{t} + A)
 The constants C and D are determined from the previously obtained numerical solutions. The parameter A accounts for the transition between drought and rainfall, ensuring continuity in the resulting graph.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/9150dd9b-3100-43b3-a654-13d176d9dddf" width="60%" alt="f(n)" />
+  <img src="https://github.com/user-attachments/assets/17e702c9-4628-4a54-b8f6-03179da9ac85" width="60%" alt="f(n)" />
 </p>
 
 
