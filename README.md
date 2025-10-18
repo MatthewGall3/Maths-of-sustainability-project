@@ -35,6 +35,6 @@ $$ \hat{Q}_0 = -\hat{t} f(0) f'(0) = -\frac{C^2 \hat{t}}{2}  $$
 
 - **Rainfall:**
   
-$$ \hat{Q}_0 = -X(0) X'(0) (\hat{t} + A)^2 = -\frac{D^2}{2(\hat{t} + A)^2} $$
+$$ \hat{Q}_0 = -\frac{X(0) X'(0)}{ (\hat{t} + A)^2} = -\frac{D^2}{2(\hat{t} + A)^2} $$
 
 
