@@ -31,7 +31,7 @@ These equations were then reduced to ODEs. Separation of variables was used for 
 
 - **Drought:**
   
-$$ hat{Q}_0 = -t f(0) f'(0) = -\frac{C^2 \hat{t}}{2}  $$
+$$ \hat{Q}_0 = -t f(0) f'(0) = -\frac{C^2 \hat{t}}{2}  $$
 
 - **Rainfall:**
   
