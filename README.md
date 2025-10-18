@@ -39,6 +39,6 @@ $$ \hat{Q}_0 = -\frac{X(0) X'(0)}{ (\hat{t} + A)^2} = -\frac{D^2}{2(\hat{t} + A)
 
 The constants C and D are determined from the previously obtained numerical solutions. The parameter A accounts for the transition between drought and rainfall, ensuring continuity in the resulting graph.
 
-<img width="%45" alt="f(n)" src="https://github.com/user-attachments/assets/9150dd9b-3100-43b3-a654-13d176d9dddf" />
+<img width="%45" height="%45" alt="f(n)" src="https://github.com/user-attachments/assets/9150dd9b-3100-43b3-a654-13d176d9dddf" />
 
 
