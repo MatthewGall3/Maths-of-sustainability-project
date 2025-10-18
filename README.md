@@ -23,3 +23,17 @@ These equations were then reduced to ODEs. Separation of variables was used for 
   <img width="45%" height="1196" alt="X(x)" src="https://github.com/user-attachments/assets/349de884-1d22-4520-b408-d81fdfc980d1" />
   <img width="45%" height="1196" alt="X(x)" src="https://github.com/user-attachments/assets/8609d89f-be43-4ef4-a781-11c383639144" />
 </p>
+
+## 2-Calculating Flux
+
+### Governing equations 
+
+- **Drought:**
+  
+$$ hat{Q}_0 = -t \hat{f}(0) f'(0) = -\frac{C^2 \hat{t}^2}{2}  $$
+
+- **Rainfall:**
+  
+$$ \hat{Q}_0 = -X(0) X'(0) (\hat{t} + A)^2 = -\frac{D^2}{2(\hat{t} + A)^2} $$
+
+
