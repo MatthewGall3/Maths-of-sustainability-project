@@ -45,7 +45,7 @@ The constants C and D are determined from the previously obtained numerical solu
 
 ## 3-Parameter Fitting to Real Data
 
-After Re-dimensionalising the flux two parameters naturally fall out of the equations. We simply call these P1 and P2. These model parameters were then fit to USGS hydrograph data from four U.S. regions using least-squares minimization. The models show strong agreement between simulated and observed hydrographs, successfully reproducing peak flow timing and decay across diverse soil and rainfall conditions.
+Upon re-dimensionalising the flux, two parameters naturally emerged from the equations, denoted P1 and P2. These model parameters were fitted to USGS hydrograph data from four U.S. regions using least-squares minimisation. The resulting models showed strong agreement with observed hydrographs, accurately capturing peak flow and decay across a range of natural conditions.
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/2e320d67-9b3f-4f92-b671-f244076a5d15" width="45%" alt="p1" />
